@@ -13,7 +13,7 @@
     <input type="text" id="firstname" name="firstname">
 </div>
 <div class="inside2">
-    <label for="lastname">Lastname:</label>
+    <label for="lastname">LastName:</label>
     <input type="text" id="lastname" name="lastname">
 </div>
 <div class="inside2">
